@@ -119,7 +119,7 @@ h4, h5{
     padding: 2% 8% 2% 8%;
 }
 .job {
-    column-count: 3;
+    column-count: 4;
     column-rule: 2px solid rgba(1, 18, 33, 0.836);
     column-width: 300px;
 }
